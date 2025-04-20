@@ -22,6 +22,7 @@
   "imports": {
     "$fresh/": "https://deno.land/x/fresh@1.7.3/",
     "@pakornv/fresh-plugin-tailwindcss": "jsr:@pakornv/fresh-plugin-tailwindcss@^1.0.2",
+    "daisyui": "npm:daisyui@^5.0.27",
     "preact": "npm:preact@^10.26.2",
     "@preact/signals": "npm:@preact/signals@^2.0.1",
     "tailwindcss": "npm:tailwindcss@^4.0.8",
